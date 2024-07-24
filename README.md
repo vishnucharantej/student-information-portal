@@ -1,2 +1,2 @@
 # student-information-portal
-using php
+Developed a student information portal with in group project 
